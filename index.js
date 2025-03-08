@@ -1,2 +1,3 @@
 const letter='yoou are stupid as fuck'
-console.log('punda letter') 
+console.log( letter) 
+console.log('manithan')
